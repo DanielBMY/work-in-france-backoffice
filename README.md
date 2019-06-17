@@ -87,9 +87,9 @@ Liste des synchronisations:
     - Date manquante - soit début, soit fin
     - Date de début > Date de fin
     - Durée de APT > 12 mois
-    - Messages de l'usager sans réponse envoyés après la date `processed_at`
+    - Message(s) de l'usager sans réponse envoyés après la date `processed_at`
 - Règle 5 - `refused` (refusé)
-    - Messages de l'usager sans réponse envoyés après la date `processed_at`
+    - Message(s) de l'usager sans réponse envoyés après la date `processed_at`
 - Règle 6 - `without_continuation` (sans suite)
-    - Messages de l'usager sans réponse envoyés après la date `processed_at`
+    - Message(s) de l'usager sans réponse envoyés après la date `processed_at`
 
